@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+.DS_Store
+server.js
+_extract_*/
+_unpack_*/
+*.zip
+*.doc
+*.docx
+*.pptx
