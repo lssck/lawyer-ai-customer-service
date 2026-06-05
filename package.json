@@ -1,0 +1,14 @@
+{
+  "name": "lawyer-ai-assistant",
+  "version": "1.0.0",
+  "description": "律师前端自动客服应答系统 - 网页聊天组件",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2"
+  }
+}
